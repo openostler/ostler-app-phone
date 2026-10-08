@@ -1,3 +1,5 @@
+Archived (2026-10-08). Ostler is now an open diagnostic and logging platform with an open vehicle-data feed (VISS), not an OS (ADR-0049 in openostler/ostler). Owners keep using Android's and the head unit's own apps for this, fed by Ostler's feed and output bridges. This repo has no code and is kept read-only for history.
+
 # Ostler Phone & Comms app
 
 Hands-free calls, contacts, messages.
